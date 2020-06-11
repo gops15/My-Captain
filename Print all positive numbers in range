@@ -1,0 +1,6 @@
+list =[12, 14, -355, 2, -65, -32]
+
+for num in list:
+
+    if num >= 0:
+        print(num, end=" ")
